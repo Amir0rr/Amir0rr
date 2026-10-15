@@ -15,8 +15,8 @@ Aspiring frontend developer focused on building fast, responsive, user-friendly 
 | Project | Description | Demo |
 |---|---|---|
 | [Tasklyft](https://github.com/Amir0rr/Tasklyft) | Persian (RTL) landing page for a task management app | [Live](https://amir0rr.github.io/Tasklyft/) |
-| [DeepFocus](https://github.com/Amir0rr/DeepFocus) | Landing page for a focus app | [Live](https://amir0rr.github.io/DeepFocus/) |
-| [GoodCoffee](https://github.com/Amir0rr/GoodCoffee) | Landing page for a coffee brand | [Live](https://amir0rr.github.io/GoodCoffee/) |
+| [DeepFocus](https://github.com/Amir0rr/DeepFocus) | Persian (RTL) landing page for a focus app | [Live](https://amir0rr.github.io/DeepFocus/) |
+| [GoodCoffee](https://github.com/Amir0rr/GoodCoffee) | Persian (RTL) landing page for a coffee brand | [Live](https://amir0rr.github.io/GoodCoffee/) |
 
 ## Currently
 
