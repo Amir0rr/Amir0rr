@@ -1,6 +1,6 @@
 # Hi, I'm Amir Hossein 👋
 
-Aspiring frontend developer focused on building fast, responsive, user-friendly landing pages. Open to small projects and learning opportunities.
+Aspiring frontend developer focused on building fast, responsive web pages and small JavaScript apps. Open to small projects and learning opportunities.
 
 ## Skills
 
@@ -17,11 +17,12 @@ Aspiring frontend developer focused on building fast, responsive, user-friendly 
 | [Tasklyft](https://github.com/Amir0rr/Tasklyft) | Persian (RTL) landing page for a task management app | [Live](https://amir0rr.github.io/Tasklyft/) |
 | [DeepFocus](https://github.com/Amir0rr/DeepFocus) | Persian (RTL) landing page for a focus app | [Live](https://amir0rr.github.io/DeepFocus/) |
 | [GoodCoffee](https://github.com/Amir0rr/GoodCoffee) | Persian (RTL) landing page for a coffee brand | [Live](https://amir0rr.github.io/GoodCoffee/) |
+| [To-Do App](https://github.com/Amir0rr/To-Do-App) | Responsive to-do list app with localStorage and a dark theme | [Live](https://amir0rr.github.io/To-Do-App/) |
 
 ## Currently
 
-- 📚 Learning JavaScript in depth (DOM, arrays, objects, async)
-- 🔨 Building a to-do app with localStorage
+- 📚 Learning JavaScript in depth (DOM, arrays, objects, fetch and working with APIs)
+- 🔨 Adding filters and a remaining-tasks counter to my to-do app
 
 ## Contact
 
