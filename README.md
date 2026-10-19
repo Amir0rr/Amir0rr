@@ -22,7 +22,7 @@ Aspiring frontend developer focused on building fast, responsive web pages and s
 ## Currently
 
 - 📚 Learning JavaScript in depth (DOM, arrays, objects, fetch and working with APIs)
-- 🔨 Adding editing task to my to-do app
+- 🔨 Building a weather app with a public API
 
 ## Contact
 
