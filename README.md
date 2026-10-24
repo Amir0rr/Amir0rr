@@ -18,7 +18,7 @@ Aspiring frontend developer focused on building fast, responsive web pages and s
 | [DeepFocus](https://github.com/Amir0rr/DeepFocus) | Persian (RTL) landing page for a focus app | [Live](https://amir0rr.github.io/DeepFocus/) |
 | [GoodCoffee](https://github.com/Amir0rr/GoodCoffee) | Persian (RTL) landing page for a coffee brand | [Live](https://amir0rr.github.io/GoodCoffee/) |
 | [To-Do App](https://github.com/Amir0rr/To-Do-App) | Responsive to-do list app with localStorage and a dark theme | [Live](https://amir0rr.github.io/To-Do-App/) |
-| [Weather App](https://github.com/Amir0rr/Weather-app) | Responsive weather app using the Open-Meteo API | [Live] | (https://amir0rr.github.io/Weather-app/)
+| [Weather App](https://github.com/Amir0rr/Weather-app) | Responsive weather app using the Open-Meteo API [Live](https://amir0rr.github.io/Weather-app/) |
 
 ## Currently
 
